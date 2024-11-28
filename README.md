@@ -1,8 +1,8 @@
 <div align='center'>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CDF782&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" /></a>
- </div>
+</div>
 
-<h2 ><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hi, I'm Omar Santiago!</font></font><a href="https://translate.google.com/website?sl=en&amp;tl=es&amp;hl=es-419&amp;prev=search&amp;u=https://github.com/Bouaskaoun" target="_self"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </a>
+<h2 ><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hi, I'm Omar Santiago!</font></font><a href="" target="_self"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </a>
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
