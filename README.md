@@ -6,7 +6,7 @@
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-🌐 With experience as a Data Engineer|SQL|ETL Developer with solid experience in the design, development and implementation of data extraction,transformation and loading solutions. Expert in optimizing the efficiency and quality of SQL and ETL processes to ensure data integrity and availability. Extensive knowledge of market-leading tools and excellent problem-solving and continuous improvement skills.
+🌐 With experience as a Data Engineer|SQL|ETL Developer and in the design, development and implementation of data extraction,transformation and loading solutions. Expert in optimizing the efficiency and quality of SQL and ETL processes to ensure data integrity and availability. Extensive knowledge of market-leading tools and excellent problem-solving and continuous improvement skills.
 
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
